@@ -1,0 +1,15 @@
+Grupo :
+Diego Antônio Barbosa Cardoso - 160005116
+Lucas Junior Ribas - 160052289
+
+Implementações:
+foram implementadas as seguintes versões do EPL:
+Java (AOP) tendo as features add,mult,sub,eval,size e Height
+Scala (traits e mixins) tendo as features add,mult,sub,eval,size e Height
+Scala (visitor) tendo as features add,mult,sub,eval,size e Height
+Kotlin (visitor) tendo as features add,mult,sub,eval,size e Height
+ 
+todas as versões tem testes unitários e as versões em scala tem testes baseados em BDD.
+
+
+

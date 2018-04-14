@@ -1,0 +1,22 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(codes.TestMulUnit, org.scalatest.tools.Framework$$anon$1@62d7cf21, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(codes.TestSubUnit, org.scalatest.tools.Framework$$anon$1@62d7cf21, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(codes.TestMul, org.scalatest.tools.Framework$$anon$1@62d7cf21, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(codes.TestAddUnit, org.scalatest.tools.Framework$$anon$1@62d7cf21, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(codes.TestAdd, org.scalatest.tools.Framework$$anon$1@62d7cf21, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(codes.TestLiteral, org.scalatest.tools.Framework$$anon$1@62d7cf21, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(codes.TestLiteralUnit, org.scalatest.tools.Framework$$anon$1@62d7cf21, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(codes.TestSub, org.scalatest.tools.Framework$$anon$1@62d7cf21, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 280 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 16[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 8, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 16, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	codes.TestSubUnit[0m
+[0m[[0m[0mdebug[0m] [0m[0m	codes.TestMul[0m
+[0m[[0m[0mdebug[0m] [0m[0m	codes.TestSub[0m
+[0m[[0m[0mdebug[0m] [0m[0m	codes.TestLiteralUnit[0m
+[0m[[0m[0mdebug[0m] [0m[0m	codes.TestLiteral[0m
+[0m[[0m[0mdebug[0m] [0m[0m	codes.TestAddUnit[0m
+[0m[[0m[0mdebug[0m] [0m[0m	codes.TestMulUnit[0m
+[0m[[0m[0mdebug[0m] [0m[0m	codes.TestAdd[0m

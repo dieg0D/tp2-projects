@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0m/home/diego/Documentos/TP2/epl-visitor/src/main/scala/br/unb/cic/epl/Height.scala:15:11: not found: value max[0m
+[0m[[0m[31merror[0m] [0m[0m    res = max(l,r) +1[0m
+[0m[[0m[31merror[0m] [0m[0m          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/diego/Documentos/TP2/epl-visitor/src/main/scala/br/unb/cic/epl/Height.scala:24:11: not found: value max[0m
+[0m[[0m[31merror[0m] [0m[0m    res = max(l,r) +1[0m
+[0m[[0m[31merror[0m] [0m[0m          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/diego/Documentos/TP2/epl-visitor/src/main/scala/br/unb/cic/epl/Height.scala:33:11: not found: value max[0m
+[0m[[0m[31merror[0m] [0m[0m    res = max(l,r) +1[0m
+[0m[[0m[31merror[0m] [0m[0m          ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m

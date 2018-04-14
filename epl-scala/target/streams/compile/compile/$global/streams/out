@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/diego/Documentos/TP2/epl-scala/src/main/scala/Main.scala:12:49: ';' expected but '.' found.[0m
+[0m[[0m[31merror[0m] [0m[0m  val sum = new Add.Add(lit100, lit500)  AddEval.Add with AddSize.Add with AddHeight.Add[0m
+[0m[[0m[31merror[0m] [0m[0m                                                ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

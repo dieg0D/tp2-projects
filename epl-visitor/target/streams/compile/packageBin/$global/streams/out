@@ -1,0 +1,33 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/diego/Documentos/TP2/epl-visitor/target/scala-2.12/epl-visitor_2.12-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	br/unb/cic[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/diego/Documentos/TP2/epl-visitor/target/scala-2.12/classes/br/unb/cic[0m
+[0m[[0m[0mdebug[0m] [0m[0m	br/unb/cic/epl/Visitor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/diego/Documentos/TP2/epl-visitor/target/scala-2.12/classes/br/unb/cic/epl/Visitor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	br/unb/cic/epl/Eval.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/diego/Documentos/TP2/epl-visitor/target/scala-2.12/classes/br/unb/cic/epl/Eval.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	br/unb/cic/epl/SizeExpression.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/diego/Documentos/TP2/epl-visitor/target/scala-2.12/classes/br/unb/cic/epl/SizeExpression.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	br/unb/cic/epl/Add.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/diego/Documentos/TP2/epl-visitor/target/scala-2.12/classes/br/unb/cic/epl/Add.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	br/unb/cic/epl/Literal.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/diego/Documentos/TP2/epl-visitor/target/scala-2.12/classes/br/unb/cic/epl/Literal.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	br/unb/cic/epl/Expression.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/diego/Documentos/TP2/epl-visitor/target/scala-2.12/classes/br/unb/cic/epl/Expression.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	br/unb[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/diego/Documentos/TP2/epl-visitor/target/scala-2.12/classes/br/unb[0m
+[0m[[0m[0mdebug[0m] [0m[0m	br[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/diego/Documentos/TP2/epl-visitor/target/scala-2.12/classes/br[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/diego/Documentos/TP2/epl-visitor/target/scala-2.12/classes/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	br/unb/cic/epl/Sub.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/diego/Documentos/TP2/epl-visitor/target/scala-2.12/classes/br/unb/cic/epl/Sub.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	br/unb/cic/epl/Height.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/diego/Documentos/TP2/epl-visitor/target/scala-2.12/classes/br/unb/cic/epl/Height.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	br/unb/cic/epl[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/diego/Documentos/TP2/epl-visitor/target/scala-2.12/classes/br/unb/cic/epl[0m
+[0m[[0m[0mdebug[0m] [0m[0m	br/unb/cic/epl/Mul.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/diego/Documentos/TP2/epl-visitor/target/scala-2.12/classes/br/unb/cic/epl/Mul.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/diego/Documentos/TP2/epl-visitor/target/scala-2.12/classes/Main.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

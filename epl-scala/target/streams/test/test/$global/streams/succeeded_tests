@@ -1,0 +1,10 @@
+#Successful Tests
+#Sat Apr 14 13:31:46 BRT 2018
+codes.TestLiteral=1523723506825
+codes.TestAdd=1523723506827
+codes.TestMul=1523723506840
+codes.TestMulUnit=1523723506764
+codes.TestAddUnit=1523723506766
+codes.TestSubUnit=1523723506762
+codes.TestSub=1523723506827
+codes.TestLiteralUnit=1523723506788

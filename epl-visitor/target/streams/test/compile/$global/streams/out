@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0m/home/lucas/Downloads/epl-visitor-master/src/test/scala/br/unb/cic/epl/TestSizeUnitV.scala:16:13: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : br.unb.cic.epl.SizeExpression[0m
+[0m[[0m[31merror[0m] [0m[0m required: org.scalatest.words.SizeWord[0m
+[0m[[0m[31merror[0m] [0m[0m	var size = new SizeExpression[0m
+[0m[[0m[31merror[0m] [0m[0m	           ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

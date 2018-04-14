@@ -1,0 +1,13 @@
+package codes
+
+
+package object Height { 
+  trait Expression extends Core.Expression {
+    def height(): Int
+  }
+
+  trait Literal extends Core.Literal with Expression {
+    override
+    def height() = 1
+  }
+}

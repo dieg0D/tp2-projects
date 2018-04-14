@@ -1,0 +1,11 @@
+[0m[[0m[31merror[0m] [0m[0m/home/diego/Documentos/TP2/epl-scala/src/test/scala/codes/TestMul.scala:48:33: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : codes.Eval.Literal[0m
+[0m[[0m[31merror[0m] [0m[0m required: codes.Height.Expression[0m
+[0m[[0m[31merror[0m] [0m[0m    val mul = new MulHeight.Mul(literal100, literal200)[0m
+[0m[[0m[31merror[0m] [0m[0m                                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/diego/Documentos/TP2/epl-scala/src/test/scala/codes/TestMul.scala:48:45: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : codes.Eval.Literal[0m
+[0m[[0m[31merror[0m] [0m[0m required: codes.Height.Expression[0m
+[0m[[0m[31merror[0m] [0m[0m    val mul = new MulHeight.Mul(literal100, literal200)[0m
+[0m[[0m[31merror[0m] [0m[0m                                            ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

@@ -1,0 +1,7 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTestSub:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAn Sub expression[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return String (100 - 200) when we call Sub(Literal(100), Literal(200).print())[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return -100 when we call Sub(Literal(100), Literal(200)).eval()[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return 3(size expression) when we call Sub(Literal(100), Literal(200)).size()[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- should return 2(height expression) when we call Sub(Literal(100), Literal(200)).height() *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  2 was not equal to 3 (TestSub.scala:51)[0m[0m

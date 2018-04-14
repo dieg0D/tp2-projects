@@ -1,0 +1,6 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTestMul:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAn Mul expression[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return String (100 * 200) when we call Mul(Literal(100), Literal(200).print())[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return 20000 when we call call Mul(Literal(100), Literal(200)).eval()[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return 3 when we call call Mul(Literal(300), Literal(400)).size()[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return 2 when we call call Mul(Literal(500), Literal(600)).height()[0m[0m
